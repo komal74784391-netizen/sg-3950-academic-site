@@ -1,0 +1,10 @@
+title: "Stephen Gomez - Research"
+description: "Publications, talks, and open-source artifacts"
+url: ""
+baseurl: ""
+markdown: kramdown
+theme: minima
+collections:
+  publications:
+    output: true
+    permalink: /publication/:path/
